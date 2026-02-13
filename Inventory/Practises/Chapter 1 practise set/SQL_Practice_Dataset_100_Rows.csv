@@ -1,0 +1,101 @@
+id,first_name,last_name,country,department,age,score,gender,enrollment_date
+1,Ayesha,Ahmed,UK,Software Eng,19,292,Male,2024-01-18
+2,Hina,Hussain,UK,Data Science,30,254,Male,2023-09-07
+3,Ahmed,Khan,USA,Computer Science,23,702,Female,2023-05-02
+4,Daniel,Ali,Germany,AI,20,713,Female,2022-10-15
+5,John,Williams,UK,Business Analytics,23,703,Male,2022-09-19
+6,David,Ali,USA,Business Analytics,27,349,Male,2023-06-15
+7,Ayesha,Ali,India,Business Analytics,21,930,Male,2022-08-06
+8,David,Ahmed,Pakistan,AI,26,859,Male,2022-07-16
+9,Ali,Smith,India,Business Analytics,23,689,Female,2023-06-26
+10,John,Hussain,Germany,Software Eng,24,984,Female,2022-03-27
+11,Fatima,Ali,Pakistan,Data Science,30,553,Male,2024-05-05
+12,Sara,Taylor,Canada,Business Analytics,29,334,Female,2024-06-17
+13,Sara,Smith,Pakistan,Software Eng,28,524,Female,2022-06-06
+14,Fatima,Smith,India,AI,25,404,Female,2022-11-03
+15,Daniel,Iqbal,Canada,Software Eng,21,402,Female,2022-04-10
+16,Ayesha,Ali,Germany,Business Analytics,26,233,Female,2023-09-12
+17,John,Williams,USA,Business Analytics,22,497,Male,2024-09-14
+18,Maria,Ahmed,Pakistan,Computer Science,21,390,Male,2024-05-14
+19,Ahmed,Ahmed,Germany,Computer Science,22,398,Female,2024-04-17
+20,Ali,Taylor,Canada,Computer Science,23,657,Female,2022-08-22
+21,Daniel,Taylor,India,Software Eng,23,753,Male,2023-04-13
+22,John,Johnson,Germany,Software Eng,28,731,Female,2023-01-04
+23,Ayesha,Williams,India,Software Eng,19,774,Male,2023-01-24
+24,Ahmed,Hussain,Germany,Business Analytics,29,437,Male,2022-04-22
+25,Ahmed,Taylor,Canada,AI,25,924,Male,2022-09-28
+26,Fatima,Brown,Canada,Business Analytics,18,341,Male,2024-07-23
+27,John,Hussain,India,Computer Science,26,492,Female,2022-12-04
+28,Ahmed,Hussain,USA,Computer Science,27,592,Male,2024-08-05
+29,Fatima,Brown,Canada,Data Science,26,576,Male,2023-08-14
+30,David,Khan,UK,Data Science,21,629,Female,2024-01-29
+31,Ayesha,Williams,Germany,Computer Science,21,498,Male,2022-04-05
+32,Hina,Brown,Canada,AI,18,834,Male,2024-01-31
+33,Hina,Williams,UK,AI,23,958,Female,2024-08-17
+34,Daniel,Taylor,UK,Business Analytics,26,972,Female,2023-11-29
+35,Maria,Brown,USA,Business Analytics,28,561,Male,2023-12-15
+36,David,Hussain,Germany,Software Eng,21,663,Male,2024-08-28
+37,Sara,Johnson,UK,Data Science,29,931,Female,2022-10-03
+38,John,Williams,UK,Software Eng,22,594,Female,2024-03-17
+39,Hina,Hussain,Germany,Software Eng,20,447,Male,2023-10-21
+40,Fatima,Johnson,Canada,Software Eng,28,881,Female,2023-01-13
+41,Ayesha,Brown,Pakistan,Software Eng,30,512,Male,2024-06-09
+42,Ali,Hussain,Canada,Software Eng,18,599,Female,2024-06-01
+43,Fatima,Iqbal,Germany,Computer Science,22,688,Male,2023-08-29
+44,John,Ahmed,UK,Data Science,28,586,Female,2022-07-14
+45,Maria,Khan,India,Business Analytics,26,240,Female,2022-03-23
+46,Maria,Smith,Canada,Data Science,30,862,Female,2023-11-02
+47,David,Williams,India,Software Eng,28,440,Female,2024-02-04
+48,Hina,Hussain,Canada,AI,20,366,Male,2022-03-22
+49,Ali,Williams,India,Data Science,30,924,Male,2023-07-19
+50,Ayesha,Brown,UK,Computer Science,28,844,Male,2023-06-26
+51,Daniel,Ali,Pakistan,Data Science,18,877,Female,2024-06-20
+52,David,Ahmed,Pakistan,Software Eng,19,736,Female,2023-08-31
+53,John,Iqbal,USA,Data Science,22,870,Female,2024-05-26
+54,Hina,Williams,UK,AI,19,949,Male,2022-02-01
+55,Hina,Taylor,UK,Computer Science,22,554,Female,2022-02-18
+56,Sara,Ali,UK,Computer Science,25,950,Female,2022-02-16
+57,Fatima,Khan,Pakistan,AI,28,414,Male,2022-09-18
+58,Maria,Williams,UK,Business Analytics,30,633,Female,2024-01-13
+59,Ali,Hussain,Pakistan,Software Eng,26,312,Female,2022-11-04
+60,Fatima,Smith,Pakistan,Software Eng,22,853,Female,2022-10-04
+61,John,Taylor,Pakistan,Computer Science,28,450,Male,2022-09-29
+62,Maria,Hussain,UK,Computer Science,29,220,Female,2023-04-06
+63,Sara,Hussain,Canada,AI,27,821,Male,2022-12-29
+64,Hina,Williams,USA,Data Science,21,896,Female,2024-02-10
+65,Maria,Williams,Pakistan,AI,23,746,Female,2023-03-14
+66,Daniel,Ahmed,Germany,Data Science,20,447,Female,2024-04-24
+67,Ahmed,Ahmed,USA,Business Analytics,20,268,Male,2023-05-06
+68,Ayesha,Smith,Germany,Business Analytics,27,561,Male,2023-07-17
+69,Sara,Ali,USA,Data Science,20,949,Male,2024-04-29
+70,John,Khan,Germany,Computer Science,22,425,Female,2024-07-19
+71,Ahmed,Williams,UK,Data Science,28,776,Male,2022-11-27
+72,Ahmed,Williams,USA,Data Science,27,488,Female,2023-07-27
+73,John,Iqbal,USA,Software Eng,24,215,Male,2023-03-16
+74,John,Taylor,Germany,Business Analytics,27,436,Female,2022-07-02
+75,Daniel,Brown,Germany,Computer Science,28,971,Male,2022-08-07
+76,Sara,Iqbal,UK,Data Science,25,659,Female,2022-03-18
+77,Hina,Williams,USA,Business Analytics,18,893,Male,2023-08-02
+78,Daniel,Smith,Pakistan,Business Analytics,27,321,Female,2022-02-22
+79,Maria,Ahmed,UK,Computer Science,27,453,Female,2024-04-21
+80,Daniel,Hussain,USA,Computer Science,22,455,Male,2024-02-08
+81,Sara,Brown,Pakistan,Computer Science,25,523,Female,2024-03-30
+82,David,Smith,Canada,AI,25,987,Male,2024-01-04
+83,David,Williams,Germany,Computer Science,24,568,Male,2023-03-09
+84,David,Smith,Canada,Data Science,23,440,Female,2024-09-07
+85,Ayesha,Brown,Germany,AI,21,958,Female,2023-02-04
+86,John,Ali,Canada,Software Eng,26,634,Male,2022-01-11
+87,Ayesha,Khan,Canada,Computer Science,18,951,Male,2023-12-19
+88,Hina,Williams,Pakistan,Business Analytics,24,794,Female,2022-07-01
+89,Ahmed,Hussain,UK,AI,29,423,Male,2023-07-20
+90,Hina,Iqbal,UK,Software Eng,29,246,Female,2023-02-05
+91,John,Williams,India,Software Eng,25,579,Female,2022-12-12
+92,Maria,Smith,USA,Computer Science,20,881,Female,2024-09-09
+93,Daniel,Brown,Germany,Business Analytics,23,527,Male,2024-08-05
+94,Ayesha,Johnson,India,Data Science,28,729,Female,2023-06-04
+95,John,Brown,India,Data Science,21,593,Male,2022-02-05
+96,Ayesha,Johnson,UK,Data Science,22,699,Female,2022-08-05
+97,Hina,Brown,Germany,Software Eng,28,703,Male,2023-04-19
+98,Ahmed,Brown,Canada,Software Eng,29,265,Male,2023-03-31
+99,Ali,Taylor,Canada,Software Eng,23,475,Male,2024-08-22
+100,Daniel,Iqbal,USA,Software Eng,27,317,Male,2023-05-11
