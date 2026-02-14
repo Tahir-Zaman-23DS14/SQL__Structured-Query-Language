@@ -1,6 +1,5 @@
 # Structured Query Language ( SQL )
-![Image Description](<img width="900" height="512" alt="image" src="https://github.com/user-attachments/assets/a72ea0a2-39d9-4648-959a-246313012644" />
-)
+![Image Description](https://pin.it/6GX4ki8Nj)
 for learning , practise materials & Projects  are here
 
 
