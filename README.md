@@ -1,6 +1,5 @@
 # Structured Query Language ( SQL )
-![Image Description](https://i.pinimg.com/736x/e0/92/5b/e0925be49d22f1b1dff96388197b28ea.jpg)
-<br>
+
 for learning , practise materials & Projects  are here
 
 
